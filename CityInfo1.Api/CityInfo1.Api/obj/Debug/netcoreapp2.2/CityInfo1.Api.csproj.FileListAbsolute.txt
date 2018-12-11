@@ -1,0 +1,16 @@
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\CityInfo1.Api.deps.json
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\CityInfo1.Api.runtimeconfig.json
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\CityInfo1.Api.runtimeconfig.dev.json
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\CityInfo1.Api.dll
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\CityInfo1.Api.pdb
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.csproj.CoreCompileInputs.cache
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.RazorAssemblyInfo.cache
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.RazorAssemblyInfo.cs
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.AssemblyInfoInputs.cache
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.AssemblyInfo.cs
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.dll
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.pdb
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\NLog.Config
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Nareshkumar.H\demo\CityInfo1.Api\CityInfo1.Api\obj\Debug\netcoreapp2.2\CityInfo1.Api.csprojAssemblyReference.cache
